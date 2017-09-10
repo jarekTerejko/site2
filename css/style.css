@@ -20,7 +20,7 @@ div {
 
 /*section hero*/
 .hero {
-	background-image: url(images/Layer%2034.jpg);
+	background-image: url(../images/Layer%2034.jpg);
 	height: 100%;
 	background-attachment: fixed;
     background-position: center;
